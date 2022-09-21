@@ -1,3 +1,2 @@
-#!/bin/bash
+#!/bin/bash 
 cp /tmp/file_0.html
-
